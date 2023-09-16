@@ -1,0 +1,129 @@
+What are favicons?
+Favicon means favourite icon which is placed in the link tag
+www.favicon.cc
+In link we have seen rel which means relation
+Each html element is a box
+div element or tag which means divide Or separation
+colorhunt.co
+
+CSS box model
+{border-width: 0px 10px 20px 30 px;} top, right, down, left
+{padding: 20px;}
+{margin: 10px;
+border: solid 20px
+
+CSS display property->sit next to each other
+common inline elements
+<span> means side by side like hello world
+<images>
+<anchors>
+
+
+relative positioning
+img {
+position: relative
+left: 30px (adding a margin), right, top, bottom
+}
+
+Absolete positioning
+<body>
+  <div class="container">
+<div class ="red"> </div> </div>
+  <div class ="blue"> </div>
+  <div class ="yellow"> </div>
+</body>
+
+
+.yellow {
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  
+}
+<h1>Hello World </h1>
+<h1>Hello World </h1>
+<h1>Hello World </h1>
+<h1>Hello World </h1>
+<h1>Hello World </h1>
+<h1>Hello World </h1>
+<h1>Hello World </h1>
+<h1>Hello World </h1>
+<h1>Hello World </h1>
+<h1>Hello World </h1>
+
+If we scroll down the yellow position also moves because its position is fixed
+
+firstly understand everything in css mdn(margin,alignment)
+
+Two types of font sizes are Serif and Sans-serif Fonts
+serif means our ends or edges are widening fonts
+
+w3 school css fonts
+CSS font stack
+fonts.google.com
+
+Flat icon.com more number of icons you will see
+giphy.com
+
+16px = 100% = 1em 
+
+https://css3buttongenerator.com/
+
+
+Programming Languages: JavaScript, HTML5, CSS3
+Front-End Technologies: ReactJS, Angular, jQuery, Bootstrap
+Back-End Technologies: Node.js, Express.js
+Databases: MySQL, MongoDB
+Version Control Systems: Git, GitHub
+Deployment: Heroku, AWS
+
+Creating an advanced portfolio website using HTML and CSS requires a comprehensive approach involving multiple components and sections. Below is an outline of how you can structure your portfolio website:
+
+HTML Structure:
+
+Create an HTML file (index.html) as the main entry point.
+Set up the basic structure of the HTML file with the <!DOCTYPE html> declaration and <html> element.
+Include the <head> section to define the document's metadata, such as the title, CSS stylesheets, and additional resources.
+Inside the <body> element, structure the sections of your portfolio website using appropriate HTML tags.
+Header Section:
+
+Include a header section that displays your name or logo and a brief introduction.
+Add a navigation bar or menu to provide links to different sections of your portfolio.
+About Me Section:
+
+Create a section to showcase your personal information, skills, and background.
+Include a professional profile picture, a summary of your experience, and a list of skills or competencies.
+Projects Section:
+
+Showcase your portfolio projects in a dedicated section.
+Create a grid or card-based layout to display project thumbnails with brief descriptions.
+Add links or buttons to allow visitors to view more details about each project.
+Work Experience/Education Section:
+
+Include a section to highlight your work experience and educational background.
+Use a chronological or reverse-chronological order to list your past positions or academic achievements.
+Provide a brief description of each experience or degree.
+Skills Section:
+
+Create a section to list your technical skills, programming languages, frameworks, or tools.
+You can use a progress bar, tag clouds, or a simple bulleted list to showcase your skills.
+Contact Section:
+
+Add a section that allows visitors to get in touch with you.
+Include a contact form or provide your email address and social media profiles.
+Optionally, add a call-to-action button to encourage visitors to reach out.
+Footer Section:
+
+Create a footer section to include additional links, copyright information, or a small bio.
+CSS Styling:
+
+Create a separate CSS file (styles.css) to define the styles for your portfolio website.
+Apply appropriate styles to achieve a visually appealing and cohesive design.
+Use CSS techniques like flexbox or grid to create responsive layouts.
+Apply typography, colors, and spacing to enhance the visual appeal of your portfolio.
+Remember to leverage CSS media queries to make your portfolio website responsive and mobile-friendly.
+
+This outline provides a general structure for an advanced portfolio website. You can further customize and enhance it based on your preferences, design skills, and the specific content you want to showcase.
