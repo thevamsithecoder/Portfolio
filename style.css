@@ -19,6 +19,7 @@ body {
     }
   }
 
+  
 .top-cloud {
     position: absolute; /*now cloud position changed from static to absolete*/
     right: 200px;
@@ -33,7 +34,7 @@ body {
     100% {
       transform: translateX(100%);
     }
-  }
+}
 
 .bottom-cloud {
     position: absolute;
@@ -239,7 +240,7 @@ border-radius: 10px;
 .border_radius {
   border-radius: 10px;
   border-radius: 10px;
-  }
+}
 
 /*Project Section*/
 .projects {
@@ -450,3 +451,4 @@ a:hover {
     height: 250px;
   }
 }
+

@@ -1,4 +1,4 @@
-What are favicons?
+What are favicons ?
 Favicon means favourite icon which is placed in the link tag
 www.favicon.cc
 In link we have seen rel which means relation
@@ -80,7 +80,8 @@ Databases: MySQL, MongoDB
 Version Control Systems: Git, GitHub
 Deployment: Heroku, AWS
 
-Creating an advanced portfolio website using HTML and CSS requires a comprehensive approach involving multiple components and sections. Below is an outline of how you can structure your portfolio website:
+Creating an advanced portfolio website using HTML and CSS requires a comprehensive approach involving multiple components and sections.
+Below is an outline of how you can structure your portfolio website:
 
 HTML Structure:
 
